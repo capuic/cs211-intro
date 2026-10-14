@@ -1,0 +1,5 @@
+- **NetID:** capatt
+- **Major:** CS
+- **Question that I chose from the memoization exercise:** Number of steps
+- **Link to the question article:** [Paste the URL to the question article]
+- **My solution:**
